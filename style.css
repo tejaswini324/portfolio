@@ -1,0 +1,32 @@
+.bg-1{
+  background-color: #1abc9c;
+  color:#ffffff;
+}
+.bg-2{
+  background-color: #575888;
+  color: #fff;
+}
+.bg-3{
+  background-color: #ffc048;
+  color: rgb(255, 0, 0);
+}
+.bg-4{
+  background-color: #2f2f2f;
+  color: #fff;
+}
+.container-fluid{
+  padding-top: 45px;
+  padding-bottom: 45px
+}
+p{
+  font-size: 21px;
+}
+.navbar{
+  letter-spacing: 3px;
+
+}
+#makeup{
+  font-size: 29px;
+  color: red;
+  font-family: Algerian;
+}
